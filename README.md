@@ -1,5 +1,6 @@
-<a href="https://chat.vercel.ai/">
-  <img alt="Next.js 14 and App Router-ready AI chatbot." src="https://nextjs-jarvix-chat-ai.vercel.app/opengraph-image.png">
+![image](https://github.com/Ashutosh102/nextjs-jarvix-chat-ai/assets/75971776/4e0e8c15-ddf4-44e8-9195-307f15892fa4)
+
+<a href="https://nextjs-jarvix-chat-ai.vercel.app/">
   <h1 align="center">Next.js AI Chatbot</h1>
 </a>
 
